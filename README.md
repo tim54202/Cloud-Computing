@@ -3,7 +3,7 @@
 This project implements a system for collecting, processing, and distributing IoT sensor data to calculate and provide Air Quality Index (AQI) information using Amazon Web Services (AWS).
 ![GitHub](Images/AQI_Table.png)
 
-###Project Tasks and Goals
+##Project Tasks and Goals
 The main objectives of this project are:
 
 1. Collect environmental sensor data from online sources and store it in a cloud-based database.
@@ -26,7 +26,7 @@ Key Considerations:
 - Optimize the balance between system performance and cost in the elastic scaling solution.
 
 
-###Features
+##Features
 
 - Fetches real-time sensor data from IoT devices
 - Calculates AQI based on PM2.5 and PM10 values
@@ -34,7 +34,7 @@ Key Considerations:
 - Provides a web interface for AQI lookup
 - Utilizes AWS services for scalable and efficient data processing and storage
 
-###Architecture
+##Architecture
 The system utilizes the following AWS services:
 
 - EC2: Hosts the main data processing script
