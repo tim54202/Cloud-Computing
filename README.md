@@ -45,4 +45,4 @@ The system utilizes the following AWS services:
 - CloudWatch: Monitors system performance
 - VPC: Ensures network isolation and security
 
-There are many limitations when implementing the project because of permission issues.
+There are several limitations when implementing the project due to permission issues.
